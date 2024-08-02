@@ -1,8 +1,12 @@
-.contactList {
-  display: flex;
-  gap: 16px;
-  flex-wrap: wrap;
-}
-.contactList li {
-  width: 100%;
-}
+/* ContactList.module.css */
+
+/* Стилі для компонента ContactList */
+.list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .item {
+    margin-bottom: 10px;
+  }
+  
